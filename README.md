@@ -41,4 +41,4 @@ python3 automate_all.py
 
 ## Author
 
-This project was created as a collaborative effort with the user.
+This project was created by Jack Massey, inspired by a youtube video.
